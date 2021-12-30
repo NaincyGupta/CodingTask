@@ -64,3 +64,12 @@ GitHub Coding Task
 -	If input date is not passed as “-d” parameter.
   
 -	If the input date entered is not in the correct format i.e. yyyy-MM-dd .
+
+
+# Screenshot of successful execution of program: 
+![image](https://user-images.githubusercontent.com/46656310/147737934-50427820-9ab7-4a9c-b6eb-e4d5644b8acf.png)
+
+
+
+![image](https://user-images.githubusercontent.com/46656310/147737951-1e826597-e1e6-483e-9f14-28d00e30967c.png)
+
