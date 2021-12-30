@@ -34,7 +34,7 @@ GitHub Coding Task
 > java -cp commons-cli-1.5.0.jar:commons-cli-1.5.0-javadoc.jar:commons-cli-1.5.0-sources.jar:commons-cli-1.5.0-tests.jar:commons-cli-1.5.0-test-sources.jar MostActiveCookie cookieData.csv -d 2018-12-09
 
   ## (General)
-> java -cp commons-cli-1.5.0.jar:commons-cli-1.5.0-javadoc.jar:commons-cli-1.5.0-sources.jar:commons-cli-1.5.0-tests.jar:commons-cli-1.5.0-test-sources.jar *<JavaFilePath>* *<CSV file path>* -d *<Input date>*
+> java -cp commons-cli-1.5.0.jar:commons-cli-1.5.0-javadoc.jar:commons-cli-1.5.0-sources.jar:commons-cli-1.5.0-tests.jar:commons-cli-1.5.0-test-sources.jar *JavaFilePath* *CSV file path* -d *Input date*
 
   # Test Program using Eclipse
 > Run the JUnit tests
